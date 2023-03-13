@@ -178,13 +178,11 @@ h3 {
     display: flex;
     align-items: center;
     padding-inline: 2rem;
-    /* background-color: var(--yellow); */
     background-color: var(--light);
     transition: box-shadow 400ms ease-in-out;
 }
 
 .about-right_cont:hover {
-    /* box-shadow: 10px 10px #000000; */
     box-shadow: 10px 10px #ffff3f;
 }
 
